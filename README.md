@@ -1,2 +1,1 @@
 # TripPlanner
-Android application
